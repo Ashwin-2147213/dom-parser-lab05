@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProgressTracking >
+	
+
+	<User>
+		<UserId>101</UserId>
+		<User_type>free</User_type>
+		<Name>ALEX SEBASTIAN</Name>
+		<age>25</age>
+		<designation>LAWYER</designation>
+	</User>
+
+	<User>
+		<UserId>102</UserId>
+		<User_type>premium</User_type>
+		<Name>ALEN JOE</Name>
+		<age>30</age>
+		<designation>LEGAL ANALYST</designation>
+	</User>
+
+	<User>
+		<UserId>103</UserId>
+		<User_type>premium</User_type>
+		<Name>NIKHIL NINNAN</Name>
+		<age>50</age>
+		<designation>CIVIL LAWYER</designation>
+	</User>
+
+	<User>
+		<UserId>104</UserId>
+		<User_type>free</User_type>
+		<Name>ARON SEQUIRRA</Name>
+		<age>40</age>
+		<designation>LEGAL JOURNALIST</designation>
+	</User>
+
+	<User>
+		<UserId>105</UserId>
+		<User_type>premium</User_type>
+		<Name>SENIN SAJI</Name>
+		<age>35</age>
+		<designation>CRIMINAL LAWYER</designation>
+	</User>
+
+	<User>
+		<UserId>106</UserId>
+		<User_type>Free</User_type>
+		<Name>ALBERT MATTHEW</Name>
+		<age>45</age>
+		<designation>LEGAL ANALYST</designation>
+	</User>
+
+	<User>
+		<UserId>107</UserId>
+		<User_type>premium</User_type>
+		<Name>JEROME CHACKO</Name>
+		<age>20</age>
+		<designation>STUDENT</designation>
+	</User>
+
+	<User>
+		<UserId>108</UserId>
+		<User_type>free</User_type>
+		<Name>AMIL JOHN</Name>
+		<age>40</age>
+		<designation>CRIMINAL LAWYER</designation>
+	</User>
+
+	<User>
+		<UserId>109</UserId>
+		<User_type>premium</User_type>
+		<Name>RIJO PATERICK</Name>
+		<age>20</age>
+		<designation>STUDENT</designation>
+	</User>
+
+	<User>
+		<UserId>110</UserId>
+		<User_type>free</User_type>
+		<Name>BRIGHT MASSEY</Name>
+		<age>45</age>
+		<designation>LEGAL ANALYST</designation>
+	</User>
+
+	
+	
+</ProgressTracking>
